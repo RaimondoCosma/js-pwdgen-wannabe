@@ -4,7 +4,7 @@ const firstName = prompt("Inserisci il tuo nome:");
 console.log(firstName);
 
 // Creo una variabile che chiede all'utente di inserire il suo cognome
-const lastName = prompt("Inserisci il tuo conome:");
+const lastName = prompt("Inserisci il tuo cognome:");
 // Lo stampo sul console.log
 console.log(lastName);
 

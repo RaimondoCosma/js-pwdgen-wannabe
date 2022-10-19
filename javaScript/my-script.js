@@ -18,7 +18,7 @@ const personalPassword = `La tua password personale è:
 "${firstName}${lastName}${favoriteColor}76"`;
 // Lo stampo sul console.log
 console.log(personalPassword);
-// La scrivo nel tag h1 con metodo getElementById
+// La scrivo nel tag h2 con id #your-password con metodo getElementById
 // document.getElementById("your-password").innerHTML = personalPassword;
-// La scrivo nel tag h1 con metodo querySelector
+// La scrivo nel tag h2 con id #your-password con metodo querySelector
 document.querySelector('#your-password').innerHTML = personalPassword;

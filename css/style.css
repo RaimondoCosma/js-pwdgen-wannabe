@@ -11,10 +11,12 @@ body {
     justify-content: center;
     align-items: center;
 }
+div {
+    text-align: center;
+}
 h1 {
     padding-bottom: 1.25rem;
 }
 h2 {
     font-style: italic;
-    text-align: center;
 }

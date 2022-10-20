@@ -14,7 +14,7 @@ const favoriteColor = prompt("Inserisci il tuo colore preferito:");
 console.log(favoriteColor);
 
 // Creo una variabile password che risulta la concatenzaione di nome + cognome + colore preferito + numero 76
-const personalPassword = `La tua password personale è:
+const personalPassword = `La tua password personale è:<br>
 "${firstName}${lastName}${favoriteColor}76"`;
 // Lo stampo sul console.log
 console.log(personalPassword);
